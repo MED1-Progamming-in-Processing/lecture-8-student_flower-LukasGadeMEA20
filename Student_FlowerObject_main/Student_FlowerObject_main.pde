@@ -25,7 +25,7 @@ void draw() {
   myObject1.display();
   myObject1.move();  
   myObject2.display();
-  myObject2.move();
+  //myObject2.move();
   
   myObject1.bounce(myObject2);
 }
